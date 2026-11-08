@@ -290,4 +290,6 @@ https://github.com/<your-github-username>/java-common-utils
 
 ## License
 
-This project is provided for learning and educational purposes.
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Manikandan S
